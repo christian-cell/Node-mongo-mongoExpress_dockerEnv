@@ -1,6 +1,8 @@
 # Node-mongo-mongoExpress_dockerEnv
 Node , mongo and mongo-express services linked in docker-compose.yml
 
+FROM superLightWeight node image of 170Mb tagged 17-alpine3.14
+
 originally the port 3000 of the container is exposed for image listening , fell free to change it
 
 $ git clone https://github.com/christian-cell/Node-mongo-mongoExpress_dockerEnv.git
