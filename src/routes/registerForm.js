@@ -17,7 +17,7 @@ const cloudinary = require('cloudinary').v2; */
 
 
 userRegisterRouter.get('/saludo' ,(req ,res)=>{
-    res.send('hello users')
+    res.send('hello users , YOUR ARE CODING AS PROS DO , creating the same environment for your partnerts')
 })
 
 ////////////////////////////////register route/////////////////////////////////////////////////////////////
