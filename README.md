@@ -5,6 +5,11 @@ originally the port 3000 of the container is exposed for image listening , fell 
 
 $ git clone https://github.com/christian-cell/Node-mongo-mongoExpress_dockerEnv.git
 
+$ curl http://localhost:4000/userRegister/saludo 
+to be wellcome
+
+
+
 $ cd Node-mongo-mongoExpress_dockerEnv
 
 to create your environment just run 
