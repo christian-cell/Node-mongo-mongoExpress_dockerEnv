@@ -1,4 +1,7 @@
 FROM node:17-alpine3.14
+
+MANTAINER christianphp
+
 # Create app directory
 RUN mkdir -p /usr/src/app
 
